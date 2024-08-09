@@ -73,7 +73,7 @@ Currently developing self-directed projects to further hone my skills and explor
 <a href="https://github.com/muscledork" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in//joshua-pauley-017239116/" target="_blank">
+<a href="https://linkedin.com/in//joshuapauley/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/muscledorknyc" target="_blank">
